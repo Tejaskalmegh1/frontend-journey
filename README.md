@@ -14,16 +14,6 @@ using **HTML, CSS, and JavaScript**.
 
 ---
 
-## Structure
-
-frontend-journey/
-├── html/
-├── css/
-├── js/
-└── final-portfolio/
-
----
-
 ## Approach
 
 - Learn fundamentals first
